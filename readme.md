@@ -13,3 +13,5 @@ This is a simple, interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScr
 - Start a Game: Open the index.html file in a web browser, and start clicking on the boxes to play Tic-Tac-Toe.
 - Reset Game: Click the "Reset Game" button to clear the board and start over.
 - New Game: Click the "New Game" button after a game ends to play again.
+
+### Play the game https://piyushjha5.github.io/TicTacToe/
